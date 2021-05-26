@@ -14,9 +14,9 @@ Para inserir os valores de entrada, deve-se colocar o comando `g++ -o` nome do a
 
 Exemplo com algoritmo de Prim:
 
-`g++ -o` prim.exe `prim.cpp`
+`g++ -o prim.exe prim.cpp`
 
-Após isso, executar a seguinte sequência de comando para  .\nome do arquivo em formato .exe `<` nome do arquivo de input/entrada
+Após isso, executar a seguinte sequência de comando para  `.\`nome do arquivo em formato .exe `<` nome do arquivo de input/entrada
 
 `.\prim.exe < in`
 
