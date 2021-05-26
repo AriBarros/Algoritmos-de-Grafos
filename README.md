@@ -12,7 +12,7 @@ Trabalho referente a disciplina Teoria dos Grafos, ministrada pelo professor Ria
 
 Para inserir os valores de entrada, deve-se colocar o comando `g++ -o` nome do arquivo em formato .exe e nome do arquivo a ser executado
 
-Exemplo com algoritmo de Prim:
+- Exemplo com algoritmo de Prim:
 
 `g++ -o prim.exe prim.cpp`
 
