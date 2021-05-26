@@ -1,9 +1,9 @@
 # Algoritmos de Grafos
 
-Autor:      Aristoteles Peixoto Barros
-            Disciplina: Teoria dos Grafos
-            Professor: Rian Gabriel Santos Pinheiro
-            Engenharia da Computação - Universidade Federal de Alagoas (UFAL)
+- Autor: Aristoteles Peixoto Barros
+- Disciplina: Teoria dos Grafos
+- Professor: Rian Gabriel Santos Pinheiro
+- Engenharia da Computação - Universidade Federal de Alagoas (UFAL)
 
 Trabalho referente a disciplina Teoria dos Grafos, ministrada pelo professor Rian Gabriel Santos Pinheiro no Instituto de Computação (IC) situada na Universidade Federal de Alagoas (UFAL). O objetivo do trabalho é implementar algoritmos vistos na disciplina com o intuito de obter nota na avaliação bimestral (AB2). Os algoritmos apresentados são: Kruskal, Prim, Grafo Acíclico Dirigido (DAG) e Dijkstra.
 
